@@ -1,0 +1,11 @@
+Worldcraft is based on Minetest which is developed by a number of contributors from all over the globe.
+
+Download source code:
+
+git clone https://github.com/gameabc/worldcraft.git
+cd worldcraft
+
+Build it:
+
+build.sh
+
